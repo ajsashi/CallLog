@@ -1,0 +1,9 @@
+
+=squid:S1659"&Declare "password" on a separate line.(™ä‹·
+Ksquid:S1066W"/Merge this if statement with the enclosing one.(™²•£ûÿÿÿÿ
+Dsquid:S1659"(Declare "mEditEmail" on a separate line.(Î÷‘»üÿÿÿÿ
+gsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(·Šíúÿÿÿÿ
+Gsquid:S1659"+Declare "mEditPassword" on a separate line.(Î÷‘»üÿÿÿÿ
+9squid:S1659""Declare "name" on a separate line.(™ä‹·
+Hsquid:S1659",Declare "mEditCpassword" on a separate line.(Î÷‘»üÿÿÿÿ
+Dsquid:S1659"-Declare "confirmPassword" on a separate line.(™ä‹·

@@ -1,0 +1,9 @@
+
+‡squid:S1319$"kThe type of the "map" object should be an interface such as "Map" rather than the implementation "HashMap".(ÌÑç÷ÿÿÿÿÿ
+‡squid:S1319Q"kThe type of the "map" object should be an interface such as "Map" rather than the implementation "HashMap".(áºÖıÿÿÿÿ
+}squid:S11926"fDefine a constant instead of duplicating this literal "Something went wrong. Try again later" 6 times.(²Õ–Ï
+dsquid:S11920"MDefine a constant instead of duplicating this literal "Unauthorised" 3 times.(¾å€‹
+Tsquid:S00107y"<Method has 8 parameters, which is greater than 7 authorized.(Ô›Ğä
+‡squid:S1319<"kThe type of the "map" object should be an interface such as "Map" rather than the implementation "HashMap".(„¾ùÂıÿÿÿÿ
+isquid:S3776y"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ô›Ğä
+‡squid:S1319e"kThe type of the "map" object should be an interface such as "Map" rather than the implementation "HashMap".(§–½Áÿÿÿÿÿ

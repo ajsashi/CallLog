@@ -1,0 +1,6 @@
+
+£%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ü¾ÁÏøÿÿÿÿ
+Jsquid:S1172".Remove this unused method parameter "context".(ü¾ÁÏøÿÿÿÿ
+Fsquid:S10663"/Merge this if statement with the enclosing one.(³«ßö
+ž%squid:RedundantThrowsDeclarationCheck/"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(È¦Ï®
+Fsquid:S1066""/Merge this if statement with the enclosing one.(³«ßö

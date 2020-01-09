@@ -1,0 +1,23 @@
+
+Osquid:S1444"8Make this "public static CURSOR_NAME_COLUMN" field final(œŒŠÃ
+Psquid:S1444":Make this "public static CURSOR_NUMBER_COLUMN" field final(—™àf
+Œ"squid:ClassVariableVisibilityCheck"^Make CURSOR_NAME_COLUMN a static final constant or non-public and provide accessors if needed.(œŒŠÃ
+"squid:ClassVariableVisibilityCheck"`Make CURSOR_NUMBER_COLUMN a static final constant or non-public and provide accessors if needed.(—™àf
+tsquid:S3008"]Rename this field "CURSOR_NAME_COLUMN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œŒŠÃ
+usquid:S3008"_Rename this field "CURSOR_NUMBER_COLUMN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—™àf
+4squid:S2386$"Make this member "protected".(É‚¶Á
+€squid:S3252"iUse static access with "android.provider.ContactsContract$ContactNameColumns" for "DISPLAY_NAME_PRIMARY".(œŒŠÃ
+Wsquid:S3252&"@Use static access with "android.provider.BaseColumns" for "_ID".(¼¨Ó·
+…squid:S3252'"iUse static access with "android.provider.ContactsContract$ContactNameColumns" for "DISPLAY_NAME_PRIMARY".(¢³²¾úÿÿÿÿ
+qsquid:S3252("ZUse static access with "android.provider.ContactsContract$ContactsColumns" for "PHOTO_ID".(‹Ó÷Æ
+squid:S3252)"eUse static access with "android.provider.ContactsContract$ContactsColumns" for "PHOTO_THUMBNAIL_URI".(¨ŞÌüÿÿÿÿÿ
+Jsquid:S1172D".Remove this unused method parameter "context".(÷ê·¼üÿÿÿÿ
+Esquid:S1172N".Remove this unused method parameter "context".(š‚ÄÒ
+…squid:S3252O"iUse static access with "android.provider.ContactsContract$ContactNameColumns" for "DISPLAY_NAME_PRIMARY".(ö”´øÿÿÿÿ
+‰squid:S3252P"mUse static access with "android.provider.ContactsContract$ContactNameColumns" for "DISPLAY_NAME_ALTERNATIVE".(ş™İèıÿÿÿÿ
+~squid:S3252Q"bUse static access with "android.provider.ContactsContract$ContactsColumns" for "HAS_PHONE_NUMBER".(›Ï˜Ôùÿÿÿÿ
+vsquid:S3252R"ZUse static access with "android.provider.ContactsContract$SyncColumns" for "ACCOUNT_NAME".(ùíÂÕùÿÿÿÿ
+qsquid:S3252S"ZUse static access with "android.provider.ContactsContract$SyncColumns" for "ACCOUNT_TYPE".(Ù×¡©
+vsquid:S3252T"ZUse static access with "android.provider.ContactsContract$SyncColumns" for "ACCOUNT_TYPE".(µ¹çöúÿÿÿÿ
+Esquid:S1172W".Remove this unused method parameter "context".(ó’÷À
+squid:S3252X"eUse static access with "android.provider.ContactsContract$ContactNameColumns" for "SORT_KEY_PRIMARY".(æÔì€şÿÿÿÿ

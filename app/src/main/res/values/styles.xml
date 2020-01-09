@@ -1,0 +1,74 @@
+<resources>
+    <!-- Text Button (A button with text in it *gets a seizure*)-->
+
+    <!-- List View -->
+    <style name="ListView" parent="Widget.AppCompat.ListView">
+        <item name="android:divider">@android:color/transparent</item>
+        <item name="android:clipToPadding">false</item>
+        <item name="android:paddingTop">@dimen/default_spacing_padding</item>
+        <item name="android:paddingBottom">@dimen/fab_and_bottom_padding</item>
+    </style>
+
+    <style name="ListItemText" />
+
+    <style name="ListItemText.Big">
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Body1</item>
+        <item name="android:text">Big Text</item>
+        <item name="android:maxLines">1</item>
+        <!--<item name="android:ellipsize">end</item>-->
+    </style>
+
+    <style name="ListItemText.Small">
+        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Caption</item>
+        <item name="android:text">small text, small text, small text, small text, small text, small
+            text
+        </item>
+        <item name="android:maxLines">1</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <style name="ActionButton" parent="Widget.Design.FloatingActionButton">
+        <item name="android:tint">@color/white</item>
+    </style>
+
+    <!-- Dialer Button -->
+
+    <style name="DialpadKey">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/dialpad_key_height</item>
+        <item name="android:soundEffectsEnabled">false</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+    </style>
+
+    <style name="DialpadKeyInnerLayout">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="DialpadKeyNumber">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/dialpad_key_number_text_size</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="DialpadKeyLetters">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/dialpad_key_letters_text_size</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="AboutCard">
+        <item name="cardCornerRadius">4dp</item>
+        <item name="android:elevation">4dp</item>
+    </style>
+
+</resources>

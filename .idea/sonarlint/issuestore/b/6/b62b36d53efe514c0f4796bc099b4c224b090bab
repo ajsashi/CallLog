@@ -1,0 +1,26 @@
+
+;squid:S1148"#Use a logger to log this exception.(Ç’Çê
+gsquid:S2674’"JCheck the return value of the "read" call to see how many bytes were read.(Ã®‚Ãùÿÿÿÿ
+hsquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(Ó‹Óûÿÿÿÿ
+hsquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(ï–ğ³ûÿÿÿÿ
+csquid:S2153Ë"FRemove the boxing to "Long"; The argument is already of the same type.(¸…É˜ûÿÿÿÿ
+;squid:S1148Â"#Use a logger to log this exception.(Ç’Çê
+_squid:S1192"GDefine a constant instead of duplicating this literal "Hello " 4 times.(Ò‘
+esquid:S1192‚"HDefine a constant instead of duplicating this literal "CallLog" 4 times.(“¤Ûøÿÿÿÿ
+nsquid:S3252á"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(ß²Êm
+Ysquid:S1126ğ"AReplace this if-then-else statement by a single return statement.(õ÷Ş
+jsquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ºÒ–Íıÿÿÿÿ
+Osquid:S1135â"2Complete the task associated to this TODO comment.(áÃæùÿÿÿÿ
+lsquid:S1450/"URemove the "dialog" field and declare it as a local variable in the relevant methods.(İĞÔÄ
+jsquid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò‰óı
+squid:S11863"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ûûúÿÿÿÿ
+jsquid:S1192t"NDefine a constant instead of duplicating this literal "service:error" 4 times.(ÿùù·şÿÿÿÿ
+Bsquid:S00108µ")Either remove or fill this block of code.(”ı¾
+esquid:S2095±"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÏŸ‰â
+hsquid:S2095k"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¹®Ùœÿÿÿÿÿ
+hsquid:S2095{"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¹®Ùœÿÿÿÿÿ
+>squid:S1168¸"&Return an empty array instead of null.(¥¹ï
+csquid:S2153Ô"FRemove the boxing to "Long"; The argument is already of the same type.(¸…É˜ûÿÿÿÿ
+Usquid:S1197²"8Move the array designator from the variable to the type.(îóØ°üÿÿÿÿ
+bsquid:S2674³"JCheck the return value of the "read" call to see how many bytes were read.(ŒÆ™
+Psquid:S1197‘"8Move the array designator from the variable to the type.(Õ®ïÆ

@@ -1,0 +1,7 @@
+
+]squid:S1126_"AReplace this if-then-else statement by a single return statement.(Ð¼Ê„ûÿÿÿÿ
+ksquid:S00116"SRename this field "_context" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òº€²
+nsquid:S00117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¾ï•ýÿÿÿÿ
+nsquid:S00116"WRename this field "PRIVATE_MODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š™èo
+gsquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(Â±î¸þÿÿÿÿ
+isquid:S00117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãŸò®

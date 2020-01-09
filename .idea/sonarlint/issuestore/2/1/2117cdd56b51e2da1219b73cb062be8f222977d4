@@ -1,0 +1,5 @@
+
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ΞΆΘ8—ω”ÿχ-
+^squid:UselessImportCheck"4Remove this unused import 'android.app.Application'.(Ά¶ÿI8§κÿχ-
+`squid:S2094
+"BRemove this empty class, write its code or make it an "interface".(²΅ου8§κÿχ-

@@ -1,0 +1,15 @@
+
+Äsquid:S3252"iUse static access with "android.provider.ContactsContract$ContactNameColumns" for "DISPLAY_NAME_PRIMARY".(úåä√
+°"squid:ClassVariableVisibilityCheck#"sMake RECENTS_PROJECTION_DISPLAY_NAME_PRIMARY a static final constant or non-public and provide accessors if needed.(ã£¡‚
+usquid:S3008"_Rename this field "CURSOR_NUMBER_COLUMN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óô‡f
+Wsquid:S3252%"@Use static access with "android.provider.BaseColumns" for "_ID".(• ª∑
+Isquid:S1172O"2Remove this unused method parameter "contactName".(√áÓÕ
+ç"squid:ClassVariableVisibilityCheck"`Make CURSOR_NUMBER_COLUMN a static final constant or non-public and provide accessors if needed.(óô‡f
+Psquid:S1444":Make this "public static CURSOR_NUMBER_COLUMN" field final(óô‡f
+âsquid:S3008#"rRename this field "RECENTS_PROJECTION_DISPLAY_NAME_PRIMARY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã£¡‚
+dsquid:S1444#"MMake this "public static RECENTS_PROJECTION_DISPLAY_NAME_PRIMARY" field final(ã£¡‚
+å"squid:ClassVariableVisibilityCheck"^Make CURSOR_NAME_COLUMN a static final constant or non-public and provide accessors if needed.(úåä√
+osquid:S3008-"XRename this field "RECENTS_ORDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´»°•
+4squid:S2386#"Make this member "protected".(ã£¡‚
+tsquid:S3008"]Rename this field "CURSOR_NAME_COLUMN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úåä√
+Osquid:S1444"8Make this "public static CURSOR_NAME_COLUMN" field final(úåä√

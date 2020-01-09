@@ -1,0 +1,16 @@
+
+Bsquid:S1181ä"%Catch Exception instead of Throwable.(’¯í»ÿÿÿÿÿ
+Gsquid:S00108ä")Either remove or fill this block of code.(’¯í»ÿÿÿÿÿ
+]squid:S2184—"FCast one of the operands of this multiplication operation to a "long".(œó´Z
+{squid:S1450`"_Remove the "mDialpadFragment" field and declare it as a local variable in the relevant methods.(ó™ıœşÿÿÿÿ
+qsquid:S1450\"URemove the "mState" field and declare it as a local variable in the relevant methods.(ê¥Ä­üÿÿÿÿ
+Jsquid:S1135Á"2Complete the task associated to this TODO comment.( —ğ
+zsquid:S1450c"cRemove the "mSharedDialViewModel" field and declare it as a local variable in the relevant methods.(¿ç—
+^squid:S2184Š"FCast one of the operands of this multiplication operation to a "long".(”÷ß
+Osquid:S1135†"2Complete the task associated to this TODO comment.(†¯éĞùÿÿÿÿ
+Nsquid:S2696Ù"6Make the enclosing method "static" or remove this set.(‘ÔìË
+Nsquid:S2696Ú"6Make the enclosing method "static" or remove this set.(Úâ¡í
+hsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(­¿²Äıÿÿÿÿ
+Jsquid:S1135Ç"2Complete the task associated to this TODO comment.(¸´–ß
+Isquid:S1135K"2Complete the task associated to this TODO comment.(ÅûªÆ
+Fsquid:S1068\"*Remove this unused "mState" private field.(ê¥Ä­üÿÿÿÿ

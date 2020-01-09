@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.subsub.libs:buttoncustomshadow:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b5f10d0a3218e6fc151147ae87d0870f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b5f10d0a3218e6fc151147ae87d0870f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.subsub.libs/buttoncustomshadow/1.1.0/2ccacec5fdabb3e0466def1d194d36e373c3c374/buttoncustomshadow-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

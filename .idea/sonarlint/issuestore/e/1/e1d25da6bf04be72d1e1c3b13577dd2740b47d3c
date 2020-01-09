@@ -1,0 +1,11 @@
+
+Gsquid:S1066Â"/Merge this if statement with the enclosing one.(ÆÖ‰¬
+csquid:HiddenFieldCheck‹";Rename "manager" which hides the field declared at line 42.(ýÉÒµøÿÿÿÿ
+Ksquid:S1066N"/Merge this if statement with the enclosing one.(™²•£ûÿÿÿÿ
+]squid:S1192R"FDefine a constant instead of duplicating this literal "email" 3 times.(šñ¿Ñ
+Lsquid:S1066±"/Merge this if statement with the enclosing one.(Â½¹–ûÿÿÿÿ
+Lsquid:S1066®"/Merge this if statement with the enclosing one.(ÎóÙôøÿÿÿÿ
+Bsquid:S1659&"+Declare "mEditPassword" on a separate line.(ô©ªï
+3squid:S3626¶"Remove this redundant jump.(ûÁÝ…
+gsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(·Šíúÿÿÿÿ
+=squid:S1659'"&Declare "password" on a separate line.(î›À¹

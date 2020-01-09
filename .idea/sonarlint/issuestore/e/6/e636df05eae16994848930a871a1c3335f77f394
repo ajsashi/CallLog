@@ -1,0 +1,4 @@
+
+‡squid:S1319"pThe type of the "tags" object should be an interface such as "List" rather than the implementation "LinkedList".(©ºÄ÷
+squid:S1319$"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(üð™Žùÿÿÿÿ
+Usquid:S1155c">Use isEmpty() to check whether the collection is empty or not.(±‘ïž

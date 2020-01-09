@@ -1,0 +1,9 @@
+
+bsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(—ûÎë
+bsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(¤…ëå
+usquid:S1450"YRemove the "serializer" field and declare it as a local variable in the relevant methods.(Ÿµ©íøÿÿÿÿ
+vsquid:S1450"_Remove the "fileOutputStream" field and declare it as a local variable in the relevant methods.(Õúú
+esquid:S4042*"IUse "java.nio.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+V
+squid:S899*";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+asquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(‰ž”8

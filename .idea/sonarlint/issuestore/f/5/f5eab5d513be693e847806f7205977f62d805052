@@ -1,0 +1,13 @@
+
+psquid:S001165"XRename this field "img_call_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü®É‘
+?squid:S16596"(Declare "txt_number" on a separate line.(·ÖÍπ
+Bsquid:S16596"+Declare "txt_call_date" on a separate line.(·ÖÍπ
+Bsquid:S16596"+Declare "txt_call_time" on a separate line.(·ÖÍπ
+psquid:S001166"XRename this field "txt_call_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÖÍπ
+=squid:S16596"&Declare "txt_time" on a separate line.(·ÖÍπ
+ísquid:S1319"{The type of the "callLogArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(‹˘‘◊
+msquid:S001166"URename this field "txt_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÖÍπ
+ksquid:S001166"SRename this field "txt_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÖÍπ
+ksquid:S001166"SRename this field "txt_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÖÍπ
+P"squid:SwitchLastCaseIsDefaultCheckH""Add a default case to this switch.(‹üïç
+psquid:S001166"XRename this field "txt_call_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÖÍπ

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.activity.MainActivity">
+
+    <!-- App Bar -->
+    <include
+        android:id="@+id/appbar"
+        layout="@layout/appbar_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <!-- View Pager -->
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+    <!-- Dialer Fragment -->
+    <FrameLayout
+        android:id="@+id/dialer_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:behavior_hideable="true"
+        app:behavior_peekHeight="0dp"
+        app:layout_anchorGravity="bottom"
+        app:layout_behavior="@string/bottom_sheet_behavior"
+        tools:layout="@layout/dialpad_fragment" />
+
+    <!-- Left Action Button -->
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/left_button"
+        style="@style/ActionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/default_padding"
+        android:layout_marginBottom="@dimen/default_padding"
+        app:layout_anchor="@+id/dialer_fragment"
+        app:layout_anchorGravity="left|bottom"
+        tools:ignore="RtlHardcoded"
+        tools:src="@drawable/ic_search_black_24dp" />
+
+    <!-- Right Action Button -->
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/right_button"
+        style="@style/ActionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/default_padding"
+        android:layout_marginBottom="@dimen/default_padding"
+        app:layout_anchor="@+id/dialer_fragment"
+        app:layout_anchorGravity="right|bottom"
+        tools:ignore="RtlHardcoded"
+        tools:src="@drawable/ic_dialpad_black_24dp" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

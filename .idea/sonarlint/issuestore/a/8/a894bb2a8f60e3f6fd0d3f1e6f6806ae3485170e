@@ -1,0 +1,106 @@
+
+Psquid:S1444"9Make this "public static XML_SERIALIZER_ROOT" field final(İ“¨¶
+~squid:S3008<"bRename this field "STARTED_CALL_LOG_BACKUP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•´ïÀüÿÿÿÿ
+"squid:ClassVariableVisibilityCheck'"`Make IS_NETWORK_CONNECTED a static final constant or non-public and provide accessors if needed.(ïüò¶
+ysquid:S3008("]Rename this field "CALL_PROOF_USER_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥èÖ÷ùÿÿÿÿ
+"squid:ClassVariableVisibilityCheck "[Make USER_AUTH_TOKEN a static final constant or non-public and provide accessors if needed.(éªÄªüÿÿÿÿ
+Rsquid:S1444&";Make this "public static LAST_CALL_BACKUP_TIME" field final(À‘Â°
+Qsquid:S1444'":Make this "public static IS_NETWORK_CONNECTED" field final(ïüò¶
+Qsquid:S1444+"5Make this "public static IS_BACK_UP_DONE" field final(­–Œ¸ûÿÿÿÿ
+psquid:S3008"TRename this field "CALL_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÒÈøüÿÿÿÿ
+ksquid:S3008!"TRename this field "USER_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÿğ
+osquid:S3008$"XRename this field "IS_LOG_SYNCED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùš²è
+"squid:ClassVariableVisibilityCheck*"]Make IS_USER_LOGGED_IN a static final constant or non-public and provide accessors if needed.(ÅÂ”Şøÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck"UMake CALL_TYPE a static final constant or non-public and provide accessors if needed.(ÒÒÈøüÿÿÿÿ
+asquid:S1192D"KUse already-defined constant 'EMAIL' instead of duplicating its value here.(¿ìÄ4
+Xsquid:S1444"<Make this "public static XML_SERIALIZER_FEATURE" field final(Íë¶Úşÿÿÿÿ
+"squid:ClassVariableVisibilityCheck="aMake ENDED_CALL_LOG_BACKUP a static final constant or non-public and provide accessors if needed.(‹ö—ù
+wsquid:S3008&"`Rename this field "LAST_CALL_BACKUP_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À‘Â°
+ˆ"squid:ClassVariableVisibilityCheck%"ZMake FIREBASE_TOKEN a static final constant or non-public and provide accessors if needed.(ÙàĞø
+osquid:S3008"XRename this field "FILE_CALL_LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«°È·
+Ksquid:S1444"/Make this "public static CALL_TIME" field final(¨Å£ıÿÿÿÿÿ
+Esquid:S1444
+".Make this "public static BASE_URL" field final(›…Ôï
+†"squid:ClassVariableVisibilityCheck"YMake CALL_DURATION a static final constant or non-public and provide accessors if needed.(Òév
+Esquid:S1444".Make this "public static INCOMING" field final(‰şäñ
+Wsquid:S1444";Make this "public static XML_SERIALIZER_OUTPUT" field final(Åì÷Æıÿÿÿÿ
+nsquid:S3008"XRename this field "CALL_DURATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òév
+wsquid:S3008="`Rename this field "ENDED_CALL_LOG_BACKUP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ö—ù
+{squid:S3008#"_Rename this field "IS_CALLPROOF_SUCCESS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼†×Åüÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck
+"TMake BASE_URL a static final constant or non-public and provide accessors if needed.(›…Ôï
+|squid:S3008"`Rename this field "XML_SERIALIZER_OUTPUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åì÷Æıÿÿÿÿ
+gsquid:S3008"QRename this field "NUMBER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¢
+Fsquid:S1444"*Make this "public static NAME" field final(şìÒÂûÿÿÿÿ
+Ksquid:S1444"/Make this "public static CALL_TYPE" field final(ÒÒÈøüÿÿÿÿ
+vsquid:S3008'"_Rename this field "IS_NETWORK_CONNECTED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïüò¶
+‘squid:S1319"{The type of the "callLogArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(×ã»
+osquid:S3008"XRename this field "CALL_DAY_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õšò¼
+‘"squid:ClassVariableVisibilityCheck("^Make CALL_PROOF_USER_ID a static final constant or non-public and provide accessors if needed.(¥èÖ÷ùÿÿÿÿ
+•"squid:ClassVariableVisibilityCheck>"bMake FAILED_CALL_LOG_BACKUP a static final constant or non-public and provide accessors if needed.(¤ïÄ£øÿÿÿÿ
+}squid:S3008>"aRename this field "FAILED_CALL_LOG_BACKUP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ïÄ£øÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck"TMake INCOMING a static final constant or non-public and provide accessors if needed.(‰şäñ
+“"squid:ClassVariableVisibilityCheck#"`Make IS_CALLPROOF_SUCCESS a static final constant or non-public and provide accessors if needed.(¼†×Åüÿÿÿÿ
+osquid:S3008"SRename this field "CALL_LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æšşúÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"PMake NAME a static final constant or non-public and provide accessors if needed.(şìÒÂûÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"TMake OUTGOING a static final constant or non-public and provide accessors if needed.(ˆÊûıÿÿÿÿ
+Jsquid:S1444"3Make this "public static CALL_DAY_TIME" field final(Õšò¼
+xsquid:S3008*"\Rename this field "IS_USER_LOGGED_IN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÂ”Şøÿÿÿÿ
+}squid:S3008"aRename this field "XML_SERIALIZER_FEATURE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íë¶Úşÿÿÿÿ
+Vsquid:S1444)"@Make this "public static IS_PUSH_NOTIFICATION_SHOWN" field final(¿·‹G
+vsquid:S3008"ZRename this field "APP_FOLDER_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùİô¾ùÿÿÿÿ
+psquid:S3008"TRename this field "CALL_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Å£ıÿÿÿÿÿ
+rsquid:S2068."V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(ÕµŠÔøÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"YMake CALL_DAY_TIME a static final constant or non-public and provide accessors if needed.(Õšò¼
+Qsquid:S1444"5Make this "public static APP_FOLDER_NAME" field final(ùİô¾ùÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"YMake FILE_CALL_LOG a static final constant or non-public and provide accessors if needed.(«°È·
+vsquid:S3008+"ZRename this field "IS_BACK_UP_DONE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­–Œ¸ûÿÿÿÿ
+nsquid:S3008"RRename this field "SECONDS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º“Õ·ûÿÿÿÿ
+Rsquid:S1444=";Make this "public static ENDED_CALL_LOG_BACKUP" field final(‹ö—ù
+Ksquid:S1444%"4Make this "public static FIREBASE_TOKEN" field final(ÙàĞø
+ˆ"squid:ClassVariableVisibilityCheck"UMake CALL_TIME a static final constant or non-public and provide accessors if needed.(¨Å£ıÿÿÿÿÿ
+Isquid:S1444"3Make this "public static CALL_DURATION" field final(Òév
+•"squid:ClassVariableVisibilityCheck"bMake XML_SERIALIZER_FEATURE a static final constant or non-public and provide accessors if needed.(Íë¶Úşÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"_Make XML_SERIALIZER_ROOT a static final constant or non-public and provide accessors if needed.(İ“¨¶
+ƒ"squid:ClassVariableVisibilityCheck!"UMake USER_NAME a static final constant or non-public and provide accessors if needed.(¶ÿğ
+Jsquid:S1444".Make this "public static CALL_LOG" field final(æšşúÿÿÿÿ
+"squid:ClassVariableVisibilityCheck&"aMake LAST_CALL_BACKUP_TIME a static final constant or non-public and provide accessors if needed.(À‘Â°
+‰"squid:ClassVariableVisibilityCheck"\Make callLogArrayList a static final constant or non-public and provide accessors if needed.(×ã»
+Bsquid:S1444",Make this "public static MISSED" field final(ÒöûP
+Ysquid:S1444<"=Make this "public static STARTED_CALL_LOG_BACKUP" field final(•´ïÀüÿÿÿÿ
+Bsquid:S1444",Make this "public static NUMBER" field final(û¢
+"squid:ClassVariableVisibilityCheck"RMake MISSED a static final constant or non-public and provide accessors if needed.(ÒöûP
+"squid:ClassVariableVisibilityCheck"[Make APP_FOLDER_NAME a static final constant or non-public and provide accessors if needed.(ùİô¾ùÿÿÿÿ
+jsquid:S3008
+"SRename this field "BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›…Ôï
+psquid:S3008%"YRename this field "FIREBASE_TOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙàĞø
+Tsquid:S1444("8Make this "public static CALL_PROOF_USER_ID" field final(¥èÖ÷ùÿÿÿÿ
+esquid:S1192E"NUse already-defined constant 'PASSWORD' instead of duplicating its value here.(Ş®ç
+†"squid:ClassVariableVisibilityCheck"SMake SECONDS a static final constant or non-public and provide accessors if needed.(º“Õ·ûÿÿÿÿ
+“"squid:ClassVariableVisibilityCheck)"fMake IS_PUSH_NOTIFICATION_SHOWN a static final constant or non-public and provide accessors if needed.(¿·‹G
+jsquid:S3008"SRename this field "INCOMING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰şäñ
+usquid:S3008"^Rename this field "XML_SERIALIZER_ROOT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ“¨¶
+”"squid:ClassVariableVisibilityCheck"aMake XML_SERIALIZER_OUTPUT a static final constant or non-public and provide accessors if needed.(Åì÷Æıÿÿÿÿ
+Xsquid:S1444>"<Make this "public static FAILED_CALL_LOG_BACKUP" field final(¤ïÄ£øÿÿÿÿ
+osquid:S3008"SRename this field "OUTGOING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÊûıÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck$"YMake IS_LOG_SYNCED a static final constant or non-public and provide accessors if needed.(ùš²è
+vsquid:S3008 "ZRename this field "USER_AUTH_TOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éªÄªüÿÿÿÿ
+{squid:S3008)"eRename this field "IS_PUSH_NOTIFICATION_SHOWN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿·‹G
+Vsquid:S1444#":Make this "public static IS_CALLPROOF_SUCCESS" field final(¼†×Åüÿÿÿÿ
+–"squid:ClassVariableVisibilityCheck<"cMake STARTED_CALL_LOG_BACKUP a static final constant or non-public and provide accessors if needed.(•´ïÀüÿÿÿÿ
+Qsquid:S1444 "5Make this "public static USER_AUTH_TOKEN" field final(éªÄªüÿÿÿÿ
+Isquid:S1444"-Make this "public static SECONDS" field final(º“Õ·ûÿÿÿÿ
+•"squid:ClassVariableVisibilityCheck""bMake IS_CALLPROOF_CONNECTED a static final constant or non-public and provide accessors if needed.(ÄÚ¨’ıÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"RMake NUMBER a static final constant or non-public and provide accessors if needed.(û¢
+"squid:ClassVariableVisibilityCheck+"[Make IS_BACK_UP_DONE a static final constant or non-public and provide accessors if needed.(­–Œ¸ûÿÿÿÿ
+Fsquid:S1444!"/Make this "public static USER_NAME" field final(¶ÿğ
+}squid:S3008""aRename this field "IS_CALLPROOF_CONNECTED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÚ¨’ıÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"TMake CALL_LOG a static final constant or non-public and provide accessors if needed.(æšşúÿÿÿÿ
+Jsquid:S1444"3Make this "public static FILE_CALL_LOG" field final(«°È·
+Xsquid:S1444""<Make this "public static IS_CALLPROOF_CONNECTED" field final(ÄÚ¨’ıÿÿÿÿ
+Ssquid:S1444*"7Make this "public static IS_USER_LOGGED_IN" field final(ÅÂ”Şøÿÿÿÿ
+Lsquid:S1444"6Make this "public static callLogArrayList" field final(×ã»
+Jsquid:S1444$"3Make this "public static IS_LOG_SYNCED" field final(ùš²è
+gsquid:S3008"QRename this field "MISSED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒöûP
+ksquid:S3008"ORename this field "NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şìÒÂûÿÿÿÿ
+Jsquid:S1444".Make this "public static OUTGOING" field final(ˆÊûıÿÿÿÿ

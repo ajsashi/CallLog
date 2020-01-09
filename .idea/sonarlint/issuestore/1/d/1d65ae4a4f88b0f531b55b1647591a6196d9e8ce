@@ -1,0 +1,4 @@
+
+msquid:S1206Ò"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÃÔ–ðúÿÿÿÿ
+…squid:S3252Z"iUse static access with "android.provider.ContactsContract$ContactNameColumns" for "DISPLAY_NAME_PRIMARY".(ŸöçØþÿÿÿÿ
+|squid:S3252["eUse static access with "android.provider.ContactsContract$ContactsColumns" for "PHOTO_THUMBNAIL_URI".(¬ÓßË

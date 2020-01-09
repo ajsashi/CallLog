@@ -1,0 +1,7 @@
+
+ssquid:S3252""WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(´Öëµúÿÿÿÿ
+zsquid:S3252("^Use static access with "android.provider.ContactsContract$ContactsColumns" for "DISPLAY_NAME".(ŽÔ”€øÿÿÿÿ
+wsquid:S3252("[Use static access with "android.provider.ContactsContract$ContactsColumns" for "PHOTO_URI".(ŽÔ”€øÿÿÿÿ
+ssquid:S3252F"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(´Öëµúÿÿÿÿ
+zsquid:S3252L"^Use static access with "android.provider.ContactsContract$ContactsColumns" for "DISPLAY_NAME".(ŽÔ”€øÿÿÿÿ
+wsquid:S3252L"[Use static access with "android.provider.ContactsContract$ContactsColumns" for "PHOTO_URI".(ŽÔ”€øÿÿÿÿ

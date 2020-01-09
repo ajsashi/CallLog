@@ -1,0 +1,15 @@
+
+squid:S1186l"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Ïƒıÿÿÿÿ
+osquid:S1450*"YRemove the "mNoCallLog" field and declare it as a local variable in the relevant methods.(ÀÔŞ<
+Zsquid:S1155H">Use isEmpty() to check whether the collection is empty or not.(ößøÿÿÿÿ
+Asquid:S001082")Either remove or fill this block of code.(ß¸é
+tsquid:S1450)"XRemove the "mMenuItem" field and declare it as a local variable in the relevant methods.(Ìæıûÿÿÿÿÿ
+˜squid:S1186g"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÒÑÃ¸
+?squid:S1185V"(Remove this method to simply inherit it.(öÿÕÅ
+gsquid:CommentedOutCodeLiney"<This block of commented-out lines of code should be removed.(Ì§å•ùÿÿÿÿ
+rsquid:S1450("[Remove the "mCallLogView" field and declare it as a local variable in the relevant methods.(í¨¼÷
+bsquid:S1301v"KReplace this "switch" statement by "if" statements to increase readability.(ºÖ
+P"squid:SwitchLastCaseIsDefaultCheckv""Add a default case to this switch.(ºÖ
+bsquid:S1155—">Use isEmpty() to check whether the collection is empty or not.(ıÇ¢¢øÿÿÿÿ8Óà”€ø-
+Zsquid:S2696¬"6Make the enclosing method "static" or remove this set.(ùŠñ§üÿÿÿÿ8Óà”€ø-
+Usquid:S2696­"6Make the enclosing method "static" or remove this set.(¨éİı8Óà”€ø-

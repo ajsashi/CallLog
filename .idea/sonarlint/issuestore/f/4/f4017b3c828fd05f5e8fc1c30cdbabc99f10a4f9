@@ -1,0 +1,10 @@
+
+csquid:S1301œ"KReplace this "switch" statement by "if" statements to increase readability.(«Ğƒ
+gsquid:S2095"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(”‘´¾úÿÿÿÿ
+u
+squid:S135“"YReduce the total number of break and continue statements in this loop to use at most one.(èöœüÿÿÿÿ
+nsquid:S00117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¾Üÿÿÿÿÿ
+Bsquid:S1168i"+Return an empty collection instead of null.(¥¹ï
+ˆ"squid:SwitchLastCaseIsDefaultCheckœ"YComplete cases by adding the missing enum constants or add a default case to this switch.(«Ğƒ
+Csquid:S1168´"+Return an empty collection instead of null.(¥¹ï
+Csquid:S1168¸"+Return an empty collection instead of null.(¥¹ï

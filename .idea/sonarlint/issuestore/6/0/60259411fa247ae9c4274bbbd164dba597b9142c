@@ -1,0 +1,6 @@
+
+esquid:S20959"IUse try-with-resources or close this "InputStream" in a "finally" clause.(Şˆ¸±ûÿÿÿÿ
+csquid:S2095:"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ŸÊ¬
+?squid:S1148("#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Isquid:S1135"2Complete the task associated to this TODO comment.(ë¦ì
+Asquid:S1181R"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ

@@ -1,0 +1,22 @@
+
+Ysquid:S1161ƒ":Add the "@Override" annotation above this method signature(ßû¢½8îè€ø-
+Fsquid:S1659;"/Declare "mCallProofConnect" on a separate line.(á¨¥Ë
+Nsquid:S1172{"+Remove this unused method parameter "view".(¡¦¿„øÿÿÿÿ8îè€ø-
+squid:S1186…"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰„Ëúÿÿÿÿ
+Rsquid:S1161Œ":Add the "@Override" annotation above this method signature(“–ış
+@squid:S1604î"(Make this anonymous inner class a lambda(„ÑñŒ
+^squid:S2142•"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+squid:S1186³"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰·Øºÿÿÿÿÿ
+Dsquid:S1185"(Remove this method to simply inherit it.(º£”úÿÿÿÿ
+Jsquid:S1172ˆ"+Remove this unused method parameter "view".(˜ÓŠø8îè€ø-
+jsquid:S00117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò‰óı
+=squid:S1659;"&Declare "mSyncLog" on a separate line.(á¨¥Ë
+^squid:S1161µ":Add the "@Override" annotation above this method signature(İßéàúÿÿÿÿ8îè€ø-
+Jsquid:S1172·"+Remove this unused method parameter "view".(‡ÏÍİ8îè€ø-
+bsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(é±™L
+hsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(ÕÆ¥ìÿÿÿÿÿ
+@squid:S1148–"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheckÍ""Add a default case to this switch.(Æ¨÷™øÿÿÿÿ
+]squid:S1161":Add the "@Override" annotation above this method signature(º£”úÿÿÿÿ8îè€ø-
+Osquid:S1172–"+Remove this unused method parameter "view".(ñĞÜ¹üÿÿÿÿ8îè€ø-
+nsquid:CommentedOutCodeLine]"<This block of commented-out lines of code should be removed.(¹‘«Øøÿÿÿÿ8¥‹’€ø-

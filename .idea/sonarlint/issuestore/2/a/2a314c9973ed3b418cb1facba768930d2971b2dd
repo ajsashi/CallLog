@@ -1,0 +1,5 @@
+
+hsquid:S1301ˆ"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+Jsquid:S1199‰"-Extract this nested code block into a method.(â÷«ùÿÿÿÿ
+gsquid:S1301B"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheckˆ""Add a default case to this switch.(øå´¡ÿÿÿÿÿ

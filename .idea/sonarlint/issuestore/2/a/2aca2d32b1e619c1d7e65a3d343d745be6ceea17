@@ -1,0 +1,11 @@
+
+asquid:S1192."JDefine a constant instead of duplicating this literal "dark;pink" 3 times.(öö±¤
+gsquid:S11920"KDefine a constant instead of duplicating this literal "dark;green" 3 times.(ËÿÃáûÿÿÿÿ
+hsquid:S11922"LDefine a constant instead of duplicating this literal "amoled;pink" 3 times.(•‹ –ÿÿÿÿÿ
+isquid:S11924"MDefine a constant instead of duplicating this literal "amoled;green" 3 times.(¥‚˜¿şÿÿÿÿ
+csquid:S1192,"LDefine a constant instead of duplicating this literal "light;green" 3 times.(î”üÉ
+gsquid:S1192*"KDefine a constant instead of duplicating this literal "light;pink" 3 times.(Ú‰Ûªøÿÿÿÿ
+P"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ÜŸ•
+U"squid:SwitchLastCaseIsDefaultCheck)""Add a default case to this switch.(”Çæ”ùÿÿÿÿ
+U"squid:SwitchLastCaseIsDefaultCheck<""Add a default case to this switch.(”Çæ”ùÿÿÿÿ
+U"squid:SwitchLastCaseIsDefaultCheckO""Add a default case to this switch.(”Çæ”ùÿÿÿÿ

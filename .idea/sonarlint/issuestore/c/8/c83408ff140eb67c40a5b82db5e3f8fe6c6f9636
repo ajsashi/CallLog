@@ -1,0 +1,4 @@
+
+gsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(ÌÑˆÓùÿÿÿÿ
+hsquid:S001176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¯Þn
+gsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(Ó¸ŠÄúÿÿÿÿ

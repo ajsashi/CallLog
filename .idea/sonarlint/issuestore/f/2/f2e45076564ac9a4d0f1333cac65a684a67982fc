@@ -1,0 +1,6 @@
+
+zsquid:S1450<"cRemove the "mSharedDialViewModel" field and declare it as a local variable in the relevant methods.(¿ç—
+~squid:UselessImportCheck!"SRemove this unused import 'com.chooloo.www.callmanager.proof.aitech.MainActivity1'.(êÃÙ¢8Ç½€ø-
+Šsquid:S1488À"kImmediately return this expression instead of assigning it to the temporary variable "recentsCursorLoader".(é½´Ï8‘Ğ€ø-
+ˆsquid:S1450="eRemove the "mSharedSearchViewModel" field and declare it as a local variable in the relevant methods.(˜›œ²ùÿÿÿÿ8‘Ğ€ø-
+osquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(ÿïÀ¸şÿÿÿÿ8‘Ğ€ø-
